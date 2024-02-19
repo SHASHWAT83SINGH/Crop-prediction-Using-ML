@@ -84,12 +84,8 @@ Note that, for now it only supports following crops
 ![demo](https://media.giphy.com/media/FLftUXMFo8N2bBjAXq/giphy.gif)
 
 
-- ### Disease Detection system
+- ### Disease Detection system 
 ![demo](https://media.giphy.com/media/NnMwEp2tGZdfnJbyjr/giphy.gif)
 
-## License 📝
-This project is licensed under [GNU (GENERAL PUBLIC LICENSE)](https://github.com/Gladiator07/Harvestify/blob/master/LICENSE).
-
-## Contact 📞
-
-#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/atharva-ingle-564430187/)
+##REFERENCES
+A speical thanks to Atharva Ingle (https://github.com/Gladiator07) by the help of his repositoryon harvestify we built this project.This complete project is based on the harvestify repository which is developed by Sir..
