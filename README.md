@@ -1,4 +1,4 @@
-# HARVESTIFY 🌿
+# Crop prediction using ML 🌿
 #### A simple ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
 
 ## DISCLAIMER ⚠️
@@ -21,11 +21,6 @@ This is a POC(Proof of concept) kind-of project. The data used here comes up wit
 - [Crop recommendation dataset ](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) (custom built dataset)
 - [Fertilizer suggestion dataset](https://github.com/Gladiator07/Harvestify/blob/master/Data-processed/fertilizer.csv) (custom built dataset)
 - [Disease detection dataset](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
-
-## Notebooks 📓
-##### I have also published the corresponding code on Kaggle Notebooks.
-- [Crop Recommendation](https://www.kaggle.com/atharvaingle/what-crop-to-grow)
-- [Disease Detection](https://www.kaggle.com/atharvaingle/plant-disease-classification-resnet-99-2)
 
 # Built with 🛠️
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -70,22 +65,21 @@ Note that, for now it only supports following crops
 - Strawberry
 - Tomato
 - Squash
-- Raspberry
+- Raspberry<img width="907" alt="Screenshot 2023-05-23 113233" src="https://github.com/SHASHWAT83SINGH/Crop-prediction-UsinG-ML/assets/107342168/ce8d9d5e-a389-4025-96f6-976a3161a395">
+
 </details>
 
-## DEMO
+## DEMO<img width="921" alt="Screenshot 2023-05-23 112733" src="https://github.com/SHASHWAT83SINGH/Crop-prediction-UsinG-ML/assets/107342168/5ae29a28-1771-4838-b76a-2b7bd51c2bef">
+<img width="922" alt="Screenshot 2023-05-23 112645" src="https://github.com/SHASHWAT83SINGH/Crop-prediction-UsinG-ML/assets/107342168/ec1a39b3-1171-43d2-8d37-af657ae8434d">
+<img width="924" alt="Screenshot 2023-05-23 113341" src="https://github.com/SHASHWAT83SINGH/Crop-prediction-UsinG-ML/assets/107342168/a6c7b3a9-c88b-48b3-a12e-d25786d39aa3">
+<img width="924" alt="Screenshot 2023-05-23 113325" src="https://github.com/SHASHWAT83SINGH/Crop-prediction-UsinG-ML/assets/107342168/ea3fde40-fd6d-4e70-9567-0f68712a18d9">
+<img width="921" alt="Screenshot 2023-05-23 113300" src="https://github.com/SHASHWAT83SINGH/Crop-prediction-UsinG-ML/assets/107342168/8a52f4b9-53c4-421e-9461-e535146b4458">
+<img width="907" alt="Screenshot 2023-05-23 113233" src="https://github.com/SHASHWAT83SINGH/Crop-prediction-UsinG-ML/assets/107342168/9bc05705-9f4c-4fd3-b565-0a3ab80cc9c8">
+<img width="51" alt="Screenshot 2023-05-23 113219" src="https://github.com/SHASHWAT83SINGH/Crop-prediction-UsinG-ML/assets/107342168/7a1180e1-201d-4e0f-b733-ac31a353c8ab">
+<img width="923" alt="Screenshot 2023-05-23 112749" src="https://github.com/SHASHWAT83SINGH/Crop-prediction-UsinG-ML/assets/107342168/8293e44f-1383-405a-bbd2-46cf045caa07">
 
-- ### Crop recommendation system
-
-![demo](https://media.giphy.com/media/90JbjdAa5nDq3TJh5u/giphy.gif)
-
-- ### Fertilizer suggestion system
-
-![demo](https://media.giphy.com/media/FLftUXMFo8N2bBjAXq/giphy.gif)
 
 
-- ### Disease Detection system 
-![demo](https://media.giphy.com/media/NnMwEp2tGZdfnJbyjr/giphy.gif)
 
 ##REFERENCES
 A speical thanks to Atharva Ingle (https://github.com/Gladiator07) by the help of his repositoryon harvestify we built this project.This complete project is based on the harvestify repository which is developed by Sir..
