@@ -80,6 +80,5 @@ Note that, for now it only supports following crops
 
 
 
-
-##REFERENCES
-A speical thanks to Atharva Ingle (https://github.com/Gladiator07) by the help of his repositoryon harvestify we built this project.This complete project is based on the harvestify repository which is developed by Sir..
+----CREDIT ----
+A speical thanks to Atharva Ingle (https://github.com/Gladiator07) by the help of his repository on harvestify we built this project.This complete project is devloped around  the harvestify repository .So we are very thankful to respected sir that he make this project and allow us to use it...
